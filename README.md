@@ -6,10 +6,6 @@
 - 💬 Meu contato de Email - allan.figueiredo100@gmail.com
 - 🌎 Rio de janeiro - Brasil
 
-<div align="center">
-  <a href="">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allan-Figueiredo&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
