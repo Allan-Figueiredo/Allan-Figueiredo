@@ -2,7 +2,7 @@
 
 
 - 📚 Estudante de programação com foco em Back-end
-- 💻 Estudando Java e Python no momento.
+- 💻 Estudando Javascript no momento.
 - 💬 Meu contato de Email - allan.figueiredo100@gmail.com
 - 🌎 Rio de janeiro - Brasil
 
