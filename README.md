@@ -1,7 +1,7 @@
 ### Olá eu sou Allan Figueiredo 👋
 
 
-- 📚 Estudante de programação com foco em Back-end
+- 📚 Estudante de programação com foco em Front-end
 - 💻 Estudando Javascript no momento.
 - 💬 Meu contato de Email - allan.figueiredo100@gmail.com
 - 🌎 Rio de janeiro - Brasil
