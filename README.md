@@ -2,7 +2,7 @@
 
 
 - 📚 Desenvolvedor Full Stack
-- 💻 Estudando React no momento.
+- 💻 Estudando Node.js no momento.
 - 💬 Meu contato de Email - allan.figueiredo100@gmail.com
 - 🌎 Rio de janeiro - Brasil
 
