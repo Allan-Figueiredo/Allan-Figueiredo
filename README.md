@@ -6,25 +6,18 @@
 - 💬 Meu contato de Email - allan.figueiredo100@gmail.com
 - 🌎 Rio de janeiro - Brasil
 
-  
   <div style="display: inline_block"><br>
 <h2>Linguagens e Estilização:</h2>
 
   [![My Skills](https://skillicons.dev/icons?i=js,typescript,python,html,css,)](https://skillicons.dev)
-</div>
-  <div style="display: inline_block"><br>
-
   <h2>Bibliotecas, Frameworks:</h2>
     
   [![My Skills](https://skillicons.dev/icons?i=nodejs,express,sequelize,react)](https://skillicons.dev)
-
- </div>   
-  <div style="display: inline_block"><br>
   <h2>Banco de dados:</h2>
 
   [![My Skills](https://skillicons.dev/icons?i=mysql,redis,postgresql,sqlite)](https://skillicons.dev)
+</div>
 
-  </div>
   
   
   ##
