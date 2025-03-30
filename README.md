@@ -1,19 +1,17 @@
 ### Olá eu sou Allan Figueiredo 👋
 
-
 - 📚 Desenvolvedor Full Stack
-- 💻 Estudando Node.js no momento.
 - 💬 Meu contato de Email - allan.figueiredo100@gmail.com
 - 🌎 Rio de janeiro - Brasil
 
   <div style="display: inline_block"><br>
-<h2>Linguagens e Estilização:</h2>
+<h3>Linguagens e Estilização:</h3>
 
   [![My Skills](https://skillicons.dev/icons?i=js,typescript,python,html,css,)](https://skillicons.dev)
-  <h2>Bibliotecas, Frameworks:</h2>
+  <h3>Bibliotecas, Frameworks:</h3>
     
   [![My Skills](https://skillicons.dev/icons?i=nodejs,express,sequelize,react)](https://skillicons.dev)
-  <h2>Banco de dados:</h2>
+  <h3>Banco de dados:</h3>
 
   [![My Skills](https://skillicons.dev/icons?i=mysql,redis,postgresql,sqlite)](https://skillicons.dev)
 </div>
