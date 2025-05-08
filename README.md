@@ -7,7 +7,7 @@
   <div style="display: inline_block"><br>
 <h3>Linguagens e Estilização:</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=js,typescript,python,html,css,)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,typescript,java,python,html,css,)](https://skillicons.dev)
   <h3>Bibliotecas, Frameworks:</h3>
     
   [![My Skills](https://skillicons.dev/icons?i=nodejs,express,sequelize,react)](https://skillicons.dev)
