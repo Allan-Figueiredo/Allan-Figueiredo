@@ -4,18 +4,7 @@
 - 💬 Meu contato de Email - allan.figueiredo100@gmail.com
 - 🌎 Rio de janeiro - Brasil
 
-  <div style="display: inline_block "><br>
-<h3>Linguagens e Estilização:</h3>
-
-  [![My Skills](https://skillicons.dev/icons?i=js,typescript,java,python,html,css)](https://skillicons.dev)
-  <h3>Bibliotecas, Frameworks:</h3>
-    
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,express,sequelize,react)](https://skillicons.dev)
-  <h3>Banco de dados:</h3>
-
-  [![My Skills](https://skillicons.dev/icons?i=mysql,redis,postgresql,sqlite)](https://skillicons.dev)
-</div>
-
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,nodejs,html,css,react,express,mysql,postgres,redis,sqlite,git,github&theme=dark" />
   
   
   ##
@@ -31,5 +20,9 @@
 </div>
 
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allan-Figueiredo&layout=compact&langs_count=7&theme=dark"/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Allan-Figueiredo&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Visitor Badge" />
+</div>
 
 
