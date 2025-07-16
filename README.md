@@ -3,11 +3,11 @@
 - 📚 Desenvolvedor Full Stack
 - 💬 Meu contato de Email - allan.figueiredo100@gmail.com
 - 🌎 Rio de janeiro - Brasil
-
-  <div style="display: inline_block"><br>
+- 
+  <div style="display: inline_block "><br>
 <h3>Linguagens e Estilização:</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=js,typescript,java,python,html,css,)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,typescript,java,python,html,css)](https://skillicons.dev)
   <h3>Bibliotecas, Frameworks:</h3>
     
   [![My Skills](https://skillicons.dev/icons?i=nodejs,express,sequelize,react)](https://skillicons.dev)
@@ -30,4 +30,6 @@
  
 </div>
 
-<td><img width="400px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Allan-Figueiredo&hide=html,TSQL,CSS,PLSQL,php,SCSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=8" /></td>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allan-Figueiredo&layout=compact&langs_count=7&theme=dark"/>
+
+
