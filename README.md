@@ -3,7 +3,7 @@
 - 📚 Desenvolvedor Full Stack
 - 💬 Meu contato de Email - allan.figueiredo100@gmail.com
 - 🌎 Rio de janeiro - Brasil
-- 
+
   <div style="display: inline_block "><br>
 <h3>Linguagens e Estilização:</h3>
 
