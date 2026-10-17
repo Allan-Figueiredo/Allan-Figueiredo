@@ -4,10 +4,16 @@
 - 💬 Meu contato de Email - allan.figueiredo100@gmail.com
 - 🌎 Rio de janeiro - Brasil
 
-## 🛠️ Tecnologias e Ferramentas
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,nodejs,html,css,react,express,mysql,postgres,redis,sqlite,git,github&theme=dark" />
+### 💻 Linguagens & Frameworks
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,nodejs,express,react&theme=dark" />
+
+### 🔒 Cybersecurity & Infraestrutura
+<img src="https://skillicons.dev/icons?i=kali,linux,bash,docker,firebase&theme=dark" />
+
+### 🗄️ Bancos de Dados & Ferramentas
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis,git,github&theme=dark" />
   
-  
+
   ##
   
   
@@ -20,14 +26,3 @@
 
  
 </div>
-
-<div align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Allan-Figueiredo&show_icons=true&theme=radical" alt="Allan Figueiredo GitHub Stats"/ >
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allan-Figueiredo&layout=compact&langs_count=7&theme=dark"/ >
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Allan-Figueiredo&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Visitor Badge" />
-</div>
-
-
